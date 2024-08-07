@@ -1,0 +1,2 @@
+# kokar
+Aplikasi aktivitas karyawan
